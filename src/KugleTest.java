@@ -8,5 +8,6 @@ public class KugleTest {
         double volumen = kugle.beregnVolumen();
 
         assertEquals(113.097,volumen,0.001);
+        System.out.println("Heeeeeeeeeeeeeej med dig");
     }
 }
